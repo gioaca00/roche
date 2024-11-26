@@ -10,6 +10,9 @@ python = "^3.11"
 pymed = "^0.8.9"
 biopython = "^1.84"
 questionary = "^2.0.1"
+transformers = "^4.46.3"
+openai = "^1.55.0"
+torch = "^2.5.1"
 
 
 [build-system]
